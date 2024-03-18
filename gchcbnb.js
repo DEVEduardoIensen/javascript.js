@@ -1,0 +1,1 @@
+alert("Em portugal, O Poeta bocage é um dos mais famosos do arcadismo. O termo arcadismo vem de Arcadia, uma região na grecia antiga ligada a vida no campo e a simplicidade, oque era comum na poesia arcade.")
